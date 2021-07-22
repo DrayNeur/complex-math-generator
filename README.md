@@ -1,5 +1,5 @@
 # complex-math-generator
-Algorythm to generate a complex math from a number
+Algorithm to generate a complex math from a number
 
 ### Results
 ```
